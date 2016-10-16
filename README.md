@@ -1,4 +1,3 @@
 # Milla
 
-Hello my friends...
-I am learning programming
+Hello my friends... I am learning programming
